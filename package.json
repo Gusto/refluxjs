@@ -1,6 +1,6 @@
 {
   "name": "@gusto/reflux",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A simple library for uni-directional dataflow application architecture inspired by ReactJS Flux",
   "main": "src/index.js",
   "scripts": {
@@ -59,6 +59,6 @@
     "sinon": "^1.10.3"
   },
   "peerDependencies": {
-    "react": ">=0.12.2 <0.15.0"
+    "react": ">=0.12.2 < 16.0"
   }
 }
