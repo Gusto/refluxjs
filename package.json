@@ -38,7 +38,7 @@
     "chai": "latest",
     "chai-as-promised": "latest",
     "es6-promise": "^2.3.0",
-    "grunt": "^0.4.5",
+    "grunt": "^1.3.0",
     "grunt-browserify": "3.8.0",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "^0.11.2",
